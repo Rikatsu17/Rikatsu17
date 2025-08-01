@@ -15,8 +15,6 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/daniyal-adilbekov-51ba6335a/](https://www.linkedin.com/in/daniyal-adilbekov-51ba6335a/)
 
-<hr></hr>
-<img src='https://media.tenor.com/HKlRkk4Mq6gAAAAC/anime.gif'></img>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/daniyal-adilbekov-51ba6335a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniyal adilbekov" height="30" width="40" /></a>

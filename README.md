@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rikatsu17</h1>
+<h1 align="center">Hi 👋, I'm Dani</h1>
 <h3 align="center">Fullstack Developer from Kazakhstan✌️</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rikatsu17&label=Profile%20views&color=0e75b6&style=flat" alt="rikatsu17" /> </p>
@@ -14,7 +14,7 @@
 - 📫 How to reach me **daniyaladilbekov@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/daniyal-adilbekov-51ba6335a/](https://www.linkedin.com/in/daniyal-adilbekov-51ba6335a/)
-
+<img src='https://media.tenor.com/HKlRkk4Mq6gAAAAC/anime.gif'></img>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/daniyal-adilbekov-51ba6335a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniyal adilbekov" height="30" width="40" /></a>
